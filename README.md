@@ -1,21 +1,71 @@
-# 💫 About Me:
-Software Engineer, always exited to learn something new.
+# Ishan Subedi
 
+**Software Engineer | Backend Development | Python | PHP & Laravel | Web Scraping & Automation**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/am.ishan.subedi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_am_ish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-subedi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/am_ish) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@am_ish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xishansub@gmail.com) 
+Software Engineer focused on backend development, web scraping, browser automation, and building reliable web applications and automation systems. I work primarily with **PHP/Laravel and Python**, and enjoy solving complex technical problems, automating repetitive workflows, and continuously learning new technologies.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ishansubedi30&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ishansubedi30&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ishansubedi30&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Connect With Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishansubedi30&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ishan-subedi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ishansubedi30)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/_am_ish)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://youtube.com/@am_ish)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat\&logo=twitch\&logoColor=white)](https://twitch.tv/am_ish)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:xishansub@gmail.com)
+
+## Areas of Expertise
+
+* **Backend Development** : PHP, Laravel, REST APIs, database-driven applications
+* **Python Development** : Automation, data processing, scripting, and web scraping
+* **Web Scraping** : Scrapy, Playwright, dynamic websites, APIs, and data extraction
+* **Browser Automation** : Playwright and automated browser workflows
+* **Database Development** : MySQL and SQLite
+* **API Development & Testing** : REST APIs, Postman, and Swagger/OpenAPI
+
+## Technical Skills
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+### Backend & Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat\&logo=scrapy\&logoColor=white)
+
+### Web Scraping & Browser Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat\&logo=playwright\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+
+### API & Development Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat\&logo=swagger\&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat\&logo=jira\&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat\&logo=trello\&logoColor=white)
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ishansubedi30\&theme=transparent\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ishansubedi30\&theme=transparent\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ishansubedi30\&theme=transparent\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
+
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ishansubedi30\&theme=flat\&no-frame=true\&no-bg=true\&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ishansubedi30&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=ishansubedi30\&style=flat\&color=2)
